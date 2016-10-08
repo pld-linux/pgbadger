@@ -1,11 +1,11 @@
 Summary:	a fast PostgreSQL log analyzer
 Name:		pgbadger
-Version:	8.1
+Version:	9.0
 Release:	1
 License:	BSD
 Group:		Applications/Databases
 Source0:	https://github.com/dalibo/pgbadger/archive/v%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	9e1ab55e404e101b5a72ede5807d23bb
+# Source0-md5:	1c4a400afc48ba0ded9966ebe1592d49
 URL:		http://dalibo.github.com/pgbadger/
 BuildRequires:	perl-devel >= 1:5.6
 BuildRequires:	perl-ExtUtils-MakeMaker
